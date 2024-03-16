@@ -14,3 +14,5 @@ Code files are arranged based on used database. Analysis made can be found in co
 [HPFS](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/HPFS)
 
 [UKB](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/UKB)
+
+We also upload code used for generating [Figures and Tables](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/Figure%20and%20Tables).
