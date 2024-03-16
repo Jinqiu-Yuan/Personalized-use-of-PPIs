@@ -6,7 +6,11 @@ Bin Xia, PhD 1,2*; Qiangsheng He, MM 1,2*; Fang Gao Smith, MD, PhD 3,4*; Georgio
 Code used for generating results and tables has been uploaded.
 
 Code files are arranged based on used database. Analysis made can be found in corresponding files:
-NHS
-NHS2
-HPFS
-UKB
+
+[NHS](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/NHS)
+
+[NHS2](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/NHS2)
+
+[HPFS](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/HPFS)
+
+[UKB](https://github.com/Jinqiu-Yuan/Personalized-use-of-PPIs/tree/main/UKB)
