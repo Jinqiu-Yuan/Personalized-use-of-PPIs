@@ -4,3 +4,9 @@ Bin Xia, PhD 1,2*; Qiangsheng He, MM 1,2*; Fang Gao Smith, MD, PhD 3,4*; Georgio
 
 
 Code used for generating results and tables has been uploaded.
+
+Code files are arranged based on used database. Analysis made can be found in corresponding files:
+NHS
+NHS2
+HPFS
+UKB
